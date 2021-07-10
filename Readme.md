@@ -8,8 +8,8 @@ About
 
 Installation
 
-npm i express
-npm install fs
+npm i express \n
+npm install fs /n
 npm install nodemon 
 
 
