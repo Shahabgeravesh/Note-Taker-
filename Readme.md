@@ -8,9 +8,9 @@ About
 
 Installation
 
-npm i express 
-npm install fs 
-npm install nodemon 
+npm i express,
+npm install fs,
+npm install nodemon,
 
 
 About
