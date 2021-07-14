@@ -1,6 +1,6 @@
 # Note Taker 
 
-Full-stack application designed to help the user to take notes. 
+Full-stack application designed for note taking purposes. 
 
 ## [Try it yourself!](    ) 
 
