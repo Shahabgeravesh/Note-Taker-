@@ -22,7 +22,7 @@ $ git clone
 ```
 SSH:
 ````
-$ git clone 
+$ git clone git@github.com:Shahabgeravesh/Note-Taker-.git
 ````
 
 To install the modules run below commands: 
