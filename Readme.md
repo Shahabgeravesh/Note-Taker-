@@ -18,7 +18,7 @@ Git clone the repository to your local machine:
 
 HTTPS:
 ```
-$ git clone 
+$ git clone https://github.com/Shahabgeravesh/Note-Taker-.git
 ```
 SSH:
 ````
@@ -27,7 +27,7 @@ $ git clone git@github.com:Shahabgeravesh/Note-Taker-.git
 
 To install the modules run below commands: 
 ````
-npm i express
+npm install express
 ````
 ````
 npm install fs
