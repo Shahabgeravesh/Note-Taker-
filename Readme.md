@@ -1,6 +1,6 @@
 # Note Taker 
 
-Full-stack application designed for note taking purposes. 
+Full-stack application designed for note taking purposes using node.js and express.js. All the information is stored within node.js so we can have a functional server to save data and make changes. Node.js creates html routes as well as api routes. 
 
 ## Getting Started
 
