@@ -2,11 +2,8 @@
 
 Full-stack application designed for note taking purposes. 
 
-## [Try it yourself!](    ) 
 
-### Or you can watch the demo video [here.]()
-
-![image]( )
+### Or you can watch the demo video
 
 ## Getting Started
 
